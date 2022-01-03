@@ -1,0 +1,24 @@
+#navbar{
+   display: flex;
+   border: 2px solid black;
+   width: 98%;
+   height:90px;
+   margin: auto;
+   justify-content: right;
+
+}
+#navbar>div {
+    display: flex;
+    /* border:2px solid black; */
+    margin-bottom: 10px;
+    width:280px;
+    padding-bottom: 15px;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    /* padding-bottom: 15px; */
+    margin-right: 10px;
+    
+}
+#menu {
+    font-size:25px;
+}
